@@ -41,6 +41,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chanakyha/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/chanakyha/leetcode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -50,4 +51,5 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chanakyha/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/chanakyha/leetcode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->

@@ -28,4 +28,20 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

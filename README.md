@@ -11,6 +11,7 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -52,4 +53,12 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chanakyha/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/chanakyha/leetcode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

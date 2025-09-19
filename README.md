@@ -13,6 +13,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -57,8 +58,14 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

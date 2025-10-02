@@ -59,6 +59,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/chanakyha/leetcode-problems/tree/master/1642-water-bottles) |
 ## Memoization
 |  |
 | ------- |
@@ -68,4 +69,8 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/chanakyha/leetcode-problems/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->

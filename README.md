@@ -26,6 +26,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +74,12 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/chanakyha/leetcode-problems/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->

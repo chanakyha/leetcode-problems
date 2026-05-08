@@ -77,6 +77,7 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Array
 |  |
 | ------- |
+| [2239-find-closest-number-to-zero](https://github.com/chanakyha/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |

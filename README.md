@@ -7,6 +7,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/chanakyha/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1768-merge-strings-alternately](https://github.com/chanakyha/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -27,6 +28,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/chanakyha/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
@@ -59,6 +61,7 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chanakyha/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/chanakyha/leetcode-problems/tree/master/1642-water-bottles) |

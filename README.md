@@ -8,6 +8,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1768-merge-strings-alternately](https://github.com/chanakyha/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,8 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/chanakyha/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->

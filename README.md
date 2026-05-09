@@ -88,6 +88,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/chanakyha/leetcode-problems/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/chanakyha/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [2239-find-closest-number-to-zero](https://github.com/chanakyha/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -103,4 +104,8 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/chanakyha/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

@@ -8,12 +8,14 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/chanakyha/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/chanakyha/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1768-merge-strings-alternately](https://github.com/chanakyha/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/chanakyha/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -90,5 +92,6 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/chanakyha/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/chanakyha/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->

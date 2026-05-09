@@ -86,6 +86,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/chanakyha/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/chanakyha/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -108,4 +109,8 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chanakyha/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

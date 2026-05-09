@@ -15,6 +15,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/chanakyha/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/chanakyha/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -83,6 +84,7 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2239-find-closest-number-to-zero](https://github.com/chanakyha/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting

@@ -49,6 +49,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/chanakyha/leetcode-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/chanakyha/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/chanakyha/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/chanakyha/leetcode-problems/tree/master/0704-binary-search) |
 | [2239-find-closest-number-to-zero](https://github.com/chanakyha/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting

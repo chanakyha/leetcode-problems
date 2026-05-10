@@ -49,6 +49,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/chanakyha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/chanakyha/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/chanakyha/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -100,6 +101,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/chanakyha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/chanakyha/leetcode-problems/tree/master/0228-summary-ranges) |
@@ -135,4 +137,8 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/chanakyha/leetcode-problems/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/chanakyha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

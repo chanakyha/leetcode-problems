@@ -50,6 +50,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/chanakyha/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/chanakyha/leetcode-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -128,4 +129,8 @@ Here are the solutions for the LeetCode problem that I have solved
 | [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanakyha/leetcode-problems/tree/master/0242-valid-anagram) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/chanakyha/leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

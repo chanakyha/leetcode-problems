@@ -51,6 +51,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/chanakyha/leetcode-problems/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/chanakyha/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/chanakyha/leetcode-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -77,6 +78,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0013-roman-to-integer](https://github.com/chanakyha/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/chanakyha/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/chanakyha/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/chanakyha/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/chanakyha/leetcode-problems/tree/master/1642-water-bottles) |
 ## Memoization

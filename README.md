@@ -48,6 +48,7 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/chanakyha/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/chanakyha/leetcode-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -94,6 +95,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |

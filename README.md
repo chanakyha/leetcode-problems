@@ -34,6 +34,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanakyha/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/chanakyha/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/chanakyha/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chanakyha/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
@@ -90,6 +91,7 @@ Here are the solutions for the LeetCode problem that I have solved
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanakyha/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/chanakyha/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/chanakyha/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [2239-find-closest-number-to-zero](https://github.com/chanakyha/leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
@@ -115,4 +117,5 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/chanakyha/leetcode-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

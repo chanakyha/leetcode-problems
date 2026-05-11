@@ -48,6 +48,7 @@ Here are the solutions for the LeetCode problem that I have solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chanakyha/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/chanakyha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chanakyha/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@ Here are the solutions for the LeetCode problem that I have solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chanakyha/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/chanakyha/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chanakyha/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/chanakyha/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/chanakyha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
